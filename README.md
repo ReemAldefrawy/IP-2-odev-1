@@ -1,2 +1,2 @@
-# -P-2-odev-1
+# IP-2-odev-1
 laravel ödevi
